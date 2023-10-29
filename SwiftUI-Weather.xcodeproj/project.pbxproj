@@ -11,6 +11,7 @@
 		3A17071F2AECAC7C00496727 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A17071E2AECAC7C00496727 /* ContentView.swift */; };
 		3A1707212AECAC7E00496727 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A1707202AECAC7E00496727 /* Assets.xcassets */; };
 		3A1707252AECAC7E00496727 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A1707242AECAC7E00496727 /* Preview Assets.xcassets */; };
+		3AC1F27C2AED2A5700D12352 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC1F27B2AED2A5700D12352 /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3A1707202AECAC7E00496727 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A1707222AECAC7E00496727 /* SwiftUI_Weather.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftUI_Weather.entitlements; sourceTree = "<group>"; };
 		3A1707242AECAC7E00496727 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3AC1F27B2AED2A5700D12352 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				3A17071C2AECAC7C00496727 /* SwiftUI_WeatherApp.swift */,
+				3AC1F27B2AED2A5700D12352 /* WeatherButton.swift */,
 				3A17071E2AECAC7C00496727 /* ContentView.swift */,
 				3A1707202AECAC7E00496727 /* Assets.xcassets */,
 				3A1707222AECAC7E00496727 /* SwiftUI_Weather.entitlements */,
@@ -141,6 +144,7 @@
 			files = (
 				3A17071F2AECAC7C00496727 /* ContentView.swift in Sources */,
 				3A17071D2AECAC7C00496727 /* SwiftUI_WeatherApp.swift in Sources */,
+				3AC1F27C2AED2A5700D12352 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
